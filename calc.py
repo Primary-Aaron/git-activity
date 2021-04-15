@@ -5,4 +5,7 @@ def calc(a, b):
     diff = a-b
     print(diff)
 
+    mult = a*b
+    print(mult)
+
 calc(3.4)
