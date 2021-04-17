@@ -11,4 +11,4 @@ def calc(a, b):
     div = a/b
     print(div)
 
-calc(3.4)
+calc(3, 4)
